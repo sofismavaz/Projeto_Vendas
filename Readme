@@ -1,2 +1,9 @@
 Aula de versionamento
-Conteúdo alterado para cumpriraprimeira etapa
+aprendendo a utilizar os comandos do versionador de arquivos git, eexercitando os comandos:
+git add . --> para adicionar o conteúdo atualizado na base os novos apontamentos;
+git pull --> para atualizar o repositório local com as alterações do repositório remoto;
+git commit -m "mensagem" --> para registrar as alterações com uma mensagem descritiva;
+git push --> para enviar as alterações do repositório local para o repositório remoto;
+git status --> para verificar o estado atual do repositório, mostrando arquivos modificados, adicionados ou removidos;
+git log --> para visualizar o histórico de commits, mostrando as mensagens e os autores;
+git branch --> para listar as branches existentes no repositório; 
